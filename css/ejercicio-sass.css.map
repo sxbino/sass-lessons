@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAEA,AAAA,UAAU,CAAC;EACV,KAAK,EAAE,GAAG;CACV",
+    "sources": [
+        "ejercicio-sass.scss"
+    ],
+    "names": [],
+    "file": "ejercicio-sass.css"
+}
