@@ -1,0 +1,69 @@
+@media screen and (max-width: 1024px) {
+  .intro {
+    width: 90%;
+  }
+  
+  .intro__contenido {
+  width: 65%;
+}
+
+  .contenedor--cajas {
+    width: 95%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .articulo--principal {
+  padding: 15px;
+}
+
+  .intro {
+    width: 90%;
+  }
+  .intro__contenido {
+    width: 80%;
+  }
+  .contenedor--cajas {
+  width: 95%;
+}
+
+.caja {
+  width: 49%;
+  margin-bottom: 10px;
+}
+
+}
+
+@media screen and (max-width: 425px) {
+  .intro {
+    margin-top: 10px;
+    width: 90%;
+    height: 50%;
+  }
+
+  .intro__contenido {
+    top: 20%;
+  }
+
+  .intro__autor {
+    top: 75%;
+  }
+
+  .intro__titulo {
+    font-size: 32px;
+  }
+.articulo--principal {
+  padding: 15px;
+}
+
+.contenedor--cajas {
+  display: block;
+  width: 95%;
+}
+
+.caja {
+  width: 100%;
+  margin-bottom: 10px;
+}
+
+}
